@@ -20,6 +20,7 @@ _English version pending_
 - ¿Que herramientas se utilizan para dar seguimiento al trabajo de una persona de la empresa?
 - ¿Qué ciclo siguen las nuevas iniciativas propuestas por los desarrolladores?
 - ¿Cómo se toman las decisiones de arquitectura dentro de los proyectos de ¿SW? Se documentan? En qué formato?
+- ¿Qué tipo de carrera profesional tenéis dentro de la empresa para los equipos de ingeniería? 
 
 ### Producto
 - Dentro de la compañía, existe un equipo de Producto?
@@ -40,7 +41,6 @@ _English version pending_
 ### Personas
 - ¿Que clase de perfiles (mkt, growth, sales, eng, prod, people)  hay en la empresa? ¿Cuáles se quieren tener?
 - ¿Existe un plan de carrera profesional / growth framework? ¿Es público?
-- ¿Qué tipo de carrera profesional tenéis dentro de la empresa para los equipos de ingeniería? 
 - Desde la perspectiva de la empresa, ¿que caminos se espera que un ingeniero pueda tomar?
 - ¿Qué tipo de organización tienen los equipos dentro de la empresa? ¿Cómo se lidia con las dependencias entre equipos?
 - ¿Se realizan revisiones de rendimiento/desempeño? ¿Cada cuanto tiempo?
