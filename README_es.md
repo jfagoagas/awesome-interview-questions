@@ -1,7 +1,6 @@
-# Awesome Interview ¿Questions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Interview Questions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-_English version pending_
-> A curated list of technical/product/sales interview questions for technological companies/startups  (For now only in ¿Spanish)
+> A curated list of technical/product/sales interview questions for technological companies/startups 
 
 ### Cultura
 - ¿Qué clase de cultura técnica tenéis? 
