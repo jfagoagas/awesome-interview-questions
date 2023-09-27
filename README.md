@@ -9,7 +9,7 @@
 
 ### Engineering
 - What environments does the company have to maintain?
-- How would the cicle of development be for a new feature from beginning to end?
+- How would the SDLC be for a new feature from beginning to end?
 - How does the company tackle an error in production? Might it be human error or security?
 - Can you describe a day of work for a person working inside an engeneering team?
 - What is the technological stack inside the company?
@@ -19,6 +19,7 @@
 - What is the cycle for a new initiative proposed by the engineering team?
 - How do the architectural decisions for software proyects take place? Do they get documentation? In which format?
 - What paths can an engineer from your company take?
+- Do you have an on-call? How does it work?
 
 ### Product
 - Do you have a team focused on the product?
@@ -34,6 +35,9 @@
 - How does the company distribute the security responsibility inside the engineering teams?
 - Does the company have a security workgroup?
 - How often does the company have security testing for its product/services?
+- How does the company manage creation/modification/deletion of users within their services or 3rd parties?
+- How does the company manage the users privileges? Are you following the Least Privilege Principle?
+- What kind of sensitive/privileged data (personal, financial, etc.) does the service handle?
 
 ### People
 - What kind of profiles (mkt, growth, sales, eng, prod, people) are inside the company? Which ones would the company like to have?
@@ -41,11 +45,12 @@
 - What type of professional career does the company have?
 - What kind of structure do the teams inside your company have? How does the company deal with team dependencies?
 - How much time does the worker have to wait until his revision? How is the process for this revision?
+- How do you build teams? What kind of profiles and genders compose them?
 
 ### Company
 - Which phase (seed/growth/scale-up/exit) does the company in nowadays?
 
 ### Finance
 - How many finance rounds has the company received? What kind?
-- How much worth were those finance rounds?
+- How much money did you get in those finance rounds?
 - Who are the key investors/supporters of the company?
