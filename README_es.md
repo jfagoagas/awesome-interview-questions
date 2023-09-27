@@ -19,7 +19,8 @@
 - ¿Que herramientas se utilizan para dar seguimiento al trabajo de una persona de la empresa?
 - ¿Qué ciclo siguen las nuevas iniciativas propuestas por los desarrolladores?
 - ¿Cómo se toman las decisiones de arquitectura dentro de los proyectos de ¿SW? Se documentan? En qué formato?
-- ¿Qué tipo de carrera profesional tenéis dentro de la empresa para los equipos de ingeniería? 
+- ¿Qué tipo de carrera profesional tenéis dentro de la empresa para los equipos de ingeniería?
+- ¿Tenéis guardias en el equipo de ingeniería? ¿Cómo es el proceso?
 
 ### Producto
 - Dentro de la compañía, existe un equipo de Producto?
@@ -36,6 +37,8 @@
 - A nivel de seguridad, ¿cómo se reparten las responsabilidades dentro de los equipos de ingeniería?
 - ¿Existe un equipo dedicado a la seguridad?
 - ¿Cada cuanto se realizan revisiones de seguridad sobre los productos/servicios?
+- ¿Cómo se gestionan las altas/modificaciones/bajas de usuarios en los servicios internos o de terceros?
+- ¿Cómo se gestionan los privilegios de usuarios? ¿Se sigue el principio de privilegios mínimos?
 
 ### Personas
 - ¿Que clase de perfiles (mkt, growth, sales, eng, prod, people)  hay en la empresa? ¿Cuáles se quieren tener?
@@ -43,6 +46,7 @@
 - Desde la perspectiva de la empresa, ¿que caminos se espera que un ingeniero pueda tomar?
 - ¿Qué tipo de organización tienen los equipos dentro de la empresa? ¿Cómo se lidia con las dependencias entre equipos?
 - ¿Se realizan revisiones de rendimiento/desempeño? ¿Cada cuanto tiempo?
+- ¿Cómo se forman los equipos? ¿Qué tipo de perfiles y géneros los componen?
 
 ### Empresa
 - ¿En qué etapa/fase (seed/growth/scale-up/exit) se encuentra la empresa actualmente?
