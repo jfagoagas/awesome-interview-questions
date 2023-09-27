@@ -56,5 +56,7 @@
 - ¿Cuál ha sido la cuantía de las rondas de inversión?
 - ¿Quién/es son los inversores de la compañía?
 
+#### Referencias
+- https://www.getmanfred.com/blog/12-preguntas-que-deberias-hacer-en-una-entrevista
 
 
